@@ -1,0 +1,26 @@
+{     
+  "_version": "1.8.0",  
+  "sap.app": {
+    "dataSources": {
+      "my_global_json_model_data_source": {
+        "uri": "localService/jsonFile.json",
+        "type": "JSON"
+      }
+    }
+  },
+  
+  "sap.ui5": {
+    "models": {
+      "i18n": {
+        "type": "sap.ui.model.resource.ResourceModel",
+        "settings": {
+          "bundleName": "sap.ui.demo.walkthrough.i18n.i18n"
+        }
+      },
+      "my_global_json_model":{
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "my_global_json_model_data_source"
+      }
+    }
+  }
+}

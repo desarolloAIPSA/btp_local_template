@@ -1,0 +1,4 @@
+specVersion: '2.6'
+metadata:
+  name: sap.gantt.sample.GanttChart2OData
+type: application

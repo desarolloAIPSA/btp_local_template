@@ -1,0 +1,1514 @@
+{
+    "ProjectElems": [
+        {
+            "ObjectID": "object-0",
+            "StartDate": "/Date(1463011200000)/",
+            "EndDate": "/Date(1502668800000)/",
+            "Percentage": 0,
+            "SeverityText": "Warning",
+            "ParentObjectID": "",
+            "ObjectType": "Chevron",
+            "OrdinalNumber": 204518,
+            "ObjectName": "Cheese Soup with Kobe Beef (PLM Info D.)",
+            "HierarchyNodeLevel": 0,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "expanded",
+            "Magnitude": 25,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-1",
+            "StartDate": "/Date(1463011200000)/",
+            "EndDate": "/Date(1464566400000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0",
+            "ObjectType": "Chevron",
+            "OrdinalNumber": 204519,
+            "ObjectName": "Market Research",
+            "HierarchyNodeLevel": 1,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "expanded",
+            "Magnitude": 2,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-1-1",
+            "StartDate": "/Date(1463011200000)/",
+            "EndDate": "/Date(1463961600000)/",
+            "Percentage": 1,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-1",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204520,
+            "ObjectName": "Taste Analysis",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1-1')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1-1')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1-1')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1-1')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-1-2",
+            "StartDate": "/Date(1464048000000)/",
+            "EndDate": "/Date(1464566400000)/",
+            "Percentage": 1,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-1",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204521,
+            "ObjectName": "Taste Feedback Collection",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1-2')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1-2')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1-2')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-1-2')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-2",
+            "StartDate": "/Date(1464652800000)/",
+            "EndDate": "/Date(1470009600000)/",
+            "Percentage": 0,
+            "SeverityText": "Warning",
+            "ParentObjectID": "object-0",
+            "ObjectType": "Chevron",
+            "OrdinalNumber": 204522,
+            "ObjectName": "Recipe Development",
+            "HierarchyNodeLevel": 1,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "expanded",
+            "Magnitude": 6,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-2-1",
+            "StartDate": "/Date(1464652800000)/",
+            "EndDate": "/Date(1467590400000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-2",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204523,
+            "ObjectName": "Basic Recipe Creation",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-1')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-1')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-1')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-1')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-2-2",
+            "StartDate": "/Date(1465430400000)/",
+            "EndDate": "/Date(1467590400000)/",
+            "Percentage": 0,
+            "SeverityText": "Warning",
+            "ParentObjectID": "object-0-2",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204524,
+            "ObjectName": "Recipe Taste Refinement",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-2')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-2')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-2')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-2')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-2-3",
+            "StartDate": "/Date(1465430400000)/",
+            "EndDate": "/Date(1466121600000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-2",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204525,
+            "ObjectName": "Recipe Cost Optimization",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-3')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-3')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-3')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-3')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-2-4",
+            "StartDate": "/Date(1467676800000)/",
+            "EndDate": "/Date(1470009600000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-2",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204526,
+            "ObjectName": "Recipe Registration",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": true,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-4')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-4')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-4')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-4')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-2-5",
+            "StartDate": "/Date(1468886400000)/",
+            "EndDate": "/Date(1470009600000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-2",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204527,
+            "ObjectName": "Tooling Approval",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-5')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-5')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-5')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-5')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-2-6",
+            "StartDate": "/Date(1470096000000)/",
+            "EndDate": "/Date(1470096000000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-2",
+            "ObjectType": "Diamond",
+            "OrdinalNumber": 204528,
+            "ObjectName": "Ready for Lab Kitchen Phase",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": true,
+            "IsProjectMilestone": true,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-6')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-6')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-6')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-2-6')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-3",
+            "StartDate": "/Date(1470096000000)/",
+            "EndDate": "/Date(1473033600000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0",
+            "ObjectType": "Chevron",
+            "OrdinalNumber": 204529,
+            "ObjectName": "Lab Kitchen Phase",
+            "HierarchyNodeLevel": 1,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "expanded",
+            "Magnitude": 2,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-3-1",
+            "StartDate": "/Date(1470096000000)/",
+            "EndDate": "/Date(1473033600000)/",
+            "Percentage": 0.8,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-3",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204530,
+            "ObjectName": "Recipe Segmentation",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3-1')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3-1')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3-1')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3-1')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-3-2",
+            "StartDate": "/Date(1473120000000)/",
+            "EndDate": "/Date(1473120000000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-3",
+            "ObjectType": "Diamond",
+            "OrdinalNumber": 204531,
+            "ObjectName": "Ready for Upscaling Process",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": true,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3-2')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3-2')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3-2')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-3-2')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-4",
+            "StartDate": "/Date(1473120000000)/",
+            "EndDate": "/Date(1478476800000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0",
+            "ObjectType": "Chevron",
+            "OrdinalNumber": 204532,
+            "ObjectName": "Upscaling",
+            "HierarchyNodeLevel": 1,
+            "IsCriticalPath": true,
+            "IsProjectMilestone": false,
+            "DrillDownState": "expanded",
+            "Magnitude": 3,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-4-1",
+            "StartDate": "/Date(1473120000000)/",
+            "EndDate": "/Date(1478476800000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-4",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204533,
+            "ObjectName": "Contracting for semifinished products",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-1')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-1')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-1')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-1')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-4-2",
+            "StartDate": "/Date(1475712000000)/",
+            "EndDate": "/Date(1478476800000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-4",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204534,
+            "ObjectName": "Assembly plant preparation",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-2')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-2')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-2')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-2')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-4-3",
+            "StartDate": "/Date(1476662400000)/",
+            "EndDate": "/Date(1478476800000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-4",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204535,
+            "ObjectName": "Packing Design Finalization",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-3')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-3')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-3')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-4-3')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-5",
+            "StartDate": "/Date(1478563200000)/",
+            "EndDate": "/Date(1487635200000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0",
+            "ObjectType": "Chevron",
+            "OrdinalNumber": 204536,
+            "ObjectName": "Go To Market",
+            "HierarchyNodeLevel": 1,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "expanded",
+            "Magnitude": 4,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-5-1",
+            "StartDate": "/Date(1478563200000)/",
+            "EndDate": "/Date(1484006400000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-5",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204537,
+            "ObjectName": "Rollout Frontrunner",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-1')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-1')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-1')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-1')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-5-2",
+            "StartDate": "/Date(1480291200000)/",
+            "EndDate": "/Date(1484006400000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-5",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204538,
+            "ObjectName": "Rollout Fast Followers",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-2')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-2')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-2')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-2')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-5-3",
+            "StartDate": "/Date(1484092800000)/",
+            "EndDate": "/Date(1487635200000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-5",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204539,
+            "ObjectName": "Global Rollout",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-3')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-3')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-3')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-3')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-5-4",
+            "StartDate": "/Date(1487721600000)/",
+            "EndDate": "/Date(1487721600000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-5",
+            "ObjectType": "Diamond",
+            "OrdinalNumber": 204540,
+            "ObjectName": "Global Product Launch",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": true,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-4')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-4')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-4')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-5-4')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-6",
+            "StartDate": "/Date(1487721600000)/",
+            "EndDate": "/Date(1502668800000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0",
+            "ObjectType": "Chevron",
+            "OrdinalNumber": 204541,
+            "ObjectName": "After Launch Activities",
+            "HierarchyNodeLevel": 1,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "expanded",
+            "Magnitude": 2,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-6-1",
+            "StartDate": "/Date(1501545600000)/",
+            "EndDate": "/Date(1502668800000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-6",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204542,
+            "ObjectName": "Success Measurement",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6-1')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6-1')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6-1')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6-1')/WorkingTimes"
+                }
+            }
+        },
+        {
+            "ObjectID": "object-0-6-2",
+            "StartDate": "/Date(1500336000000)/",
+            "EndDate": "/Date(1502668800000)/",
+            "Percentage": 0,
+            "SeverityText": "",
+            "ParentObjectID": "object-0-6",
+            "ObjectType": "Rectangle",
+            "OrdinalNumber": 204543,
+            "ObjectName": "Recipe Refinement",
+            "HierarchyNodeLevel": 2,
+            "IsCriticalPath": false,
+            "IsProjectMilestone": false,
+            "DrillDownState": "leaf",
+            "Magnitude": 0,
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6-2')",
+                "type": "GANTT_CHART_ODATA_SRV.ProjectElemDetail",
+                "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6-2')"
+            },
+            "Relationships": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6-2')/Relationships"
+                }
+            },
+            "WorkingTimes": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/ProjectElems('object-0-6-2')/WorkingTimes"
+                }
+            }
+        }
+    ],
+    "Relationships": [
+        {
+            "ObjectID": "rls-0-1",
+            "RelationID": "rls-0",
+            "ParentObjectID": "object-0-1-1",
+            "PredecTaskID": "object-0-1-1",
+            "SuccTaskID": "object-0-1-2",
+            "RelationType": "StartToFinish",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Relationships('rls-0-1')",
+                "type": "GANTT_CHART_ODATA_SRV.RelationshipDetail",
+                "uri": "sap.gantt.GanttChart2OData/Relationships('rls-0-1')"
+            }
+        },
+        {
+            "ObjectID": "rls-1-1",
+            "RelationID": "rls-1",
+            "ParentObjectID": "object-0-2-2",
+            "PredecTaskID": "object-0-2-2",
+            "SuccTaskID": "object-0-2-3",
+            "RelationType": "FinishToFinish",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Relationships('rls-1-1')",
+                "type": "GANTT_CHART_ODATA_SRV.RelationshipDetail",
+                "uri": "sap.gantt.GanttChart2OData/Relationships('rls-1-1')"
+            }
+        },
+        {
+            "ObjectID": "rls-2-1",
+            "RelationID": "rls-2",
+            "ParentObjectID": "object-0-2-5",
+            "PredecTaskID": "object-0-2-5",
+            "SuccTaskID": "object-0-2-6",
+            "RelationType": "StartToStart",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Relationships('rls-2-1')",
+                "type": "GANTT_CHART_ODATA_SRV.RelationshipDetail",
+                "uri": "sap.gantt.GanttChart2OData/Relationships('rls-2-1')"
+            }
+        },
+        {
+            "ObjectID": "rls-3-1",
+            "RelationID": "rls-3",
+            "ParentObjectID": "object-0-5-2",
+            "PredecTaskID": "object-0-5-2",
+            "SuccTaskID": "object-0-5-3",
+            "RelationType": "FinishToStart",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Relationships('rls-3-1')",
+                "type": "GANTT_CHART_ODATA_SRV.RelationshipDetail",
+                "uri": "sap.gantt.GanttChart2OData/Relationships('rls-3-1')"
+            }
+        },
+        {
+            "ObjectID": "rls-4-1",
+            "RelationID": "rls-4",
+            "ParentObjectID": "object-0-1-1",
+            "PredecTaskID": "monitor_task_2",
+            "SuccTaskID": "monitor_task_2_step_01",
+            "RelationType": "StartToStart",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Relationships('rls-4-1')",
+                "type": "GANTT_CHART_ODATA_SRV.RelationshipDetail",
+                "uri": "sap.gantt.GanttChart2OData/Relationships('rls-4-1')"
+            }
+        },
+        {
+            "ObjectID": "rls-5-1",
+            "RelationID": "rls-5",
+            "ParentObjectID": "object-0-1-1",
+            "PredecTaskID": "monitor_task_2_step_01",
+            "SuccTaskID": "monitor_task_2_step_02",
+            "RelationType": "FinishToFinish",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Relationships('rls-5-1')",
+                "type": "GANTT_CHART_ODATA_SRV.RelationshipDetail",
+                "uri": "sap.gantt.GanttChart2OData/Relationships('rls-5-1')"
+            }
+        },
+        {
+            "ObjectID": "rls-6-1",
+            "RelationID": "rls-6",
+            "ParentObjectID": "object-0-1-1",
+            "PredecTaskID": "monitor_task_1",
+            "SuccTaskID": "monitor_task_2",
+            "RelationType": "StartToFinish",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Relationships('rls-6-1')",
+                "type": "GANTT_CHART_ODATA_SRV.RelationshipDetail",
+                "uri": "sap.gantt.GanttChart2OData/Relationships('rls-6-1')"
+            }
+        },
+        {
+            "ObjectID": "rls-7-1",
+            "RelationID": "rls-7",
+            "ParentObjectID": "object-0-1-1",
+            "PredecTaskID": "object-0-1-1",
+            "SuccTaskID": "object-0-6-2",
+            "RelationType": "FinishToFinish",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Relationships('rls-7-1')",
+                "type": "GANTT_CHART_ODATA_SRV.RelationshipDetail",
+                "uri": "sap.gantt.GanttChart2OData/Relationships('rls-7-1')"
+            }
+        }
+    ],
+    "Calendars": [
+        {
+            "CalendarID": "0",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Calendars('0')",
+                "type": "GANTT_CHART_ODATA_SRV.CalendarDetail",
+                "uri": "sap.gantt.GanttChart2OData/Calendars('0')"
+            },
+            "CalendarInterval": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/Calendars('0')/CalendarInterval"
+                }
+            }
+        },
+        {
+            "CalendarID": "1",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/Calendars('1')",
+                "type": "GANTT_CHART_ODATA_SRV.CalendarDetail",
+                "uri": "sap.gantt.GanttChart2OData/Calendars('1')"
+            },
+            "CalendarInterval": {
+                "__deferred": {
+                    "uri": "sap.gantt.GanttChart2OData/Calendars('1')/CalendarInterval"
+                }
+            }
+        }
+    ],
+    "CalendarIntervals": [
+        {
+            "CalendarIntervalID": "1",
+            "CalendarID": "0",
+            "StartDate": "/Date(1463414400000)/",
+            "EndDate": "/Date(1463846400000)/",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/CalendarIntervals('1')",
+                "type": "GANTT_CHART_ODATA_SRV.CalendarIntervalDetail",
+                "uri": "sap.gantt.GanttChart2OData/CalendarIntervals('1')"
+            }
+        },
+        {
+            "CalendarIntervalID": "2",
+            "CalendarID": "0",
+            "StartDate": "/Date(1466524800000)/",
+            "EndDate": "/Date(1467043200000)/",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/CalendarIntervals('2')",
+                "type": "GANTT_CHART_ODATA_SRV.CalendarIntervalDetail",
+                "uri": "sap.gantt.GanttChart2OData/CalendarIntervals('2')"
+            }
+        },
+        {
+            "CalendarIntervalID": "3",
+            "CalendarID": "1",
+            "StartDate": "/Date(1483459200000)/",
+            "EndDate": "/Date(1483977600000)/",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/CalendarIntervals('3')",
+                "type": "GANTT_CHART_ODATA_SRV.CalendarIntervalDetail",
+                "uri": "sap.gantt.GanttChart2OData/CalendarIntervals('3')"
+            }
+        },
+        {
+            "CalendarIntervalID": "4",
+            "CalendarID": "1",
+            "StartDate": "/Date(1485878400000)/",
+            "EndDate": "/Date(1486396800000)/",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/CalendarIntervals('4')",
+                "type": "GANTT_CHART_ODATA_SRV.CalendarIntervalDetail",
+                "uri": "sap.gantt.GanttChart2OData/CalendarIntervals('4')"
+            }
+        }
+    ],
+    "WorkingTimes": [
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0",
+            "ParentObjectID": "object-0",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-1",
+            "ParentObjectID": "object-0-1",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-1-1",
+            "ParentObjectID": "object-0-1-1",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-1-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-1-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-1-2",
+            "ParentObjectID": "object-0-1-2",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-1-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-1-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-2",
+            "ParentObjectID": "object-0-2",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-2-1",
+            "ParentObjectID": "object-0-2-1",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-2-2",
+            "ParentObjectID": "object-0-2-2",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-2-3",
+            "ParentObjectID": "object-0-2-3",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-3')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-3')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-2-4",
+            "ParentObjectID": "object-0-2-4",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-4')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-4')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-2-5",
+            "ParentObjectID": "object-0-2-5",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-5')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-5')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-2-6",
+            "ParentObjectID": "object-0-2-6",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-6')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-2-6')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-3",
+            "ParentObjectID": "object-0-3",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-3')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-3')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-3-1",
+            "ParentObjectID": "object-0-3-1",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-3-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-3-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-3-2",
+            "ParentObjectID": "object-0-3-2",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-3-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-3-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-4",
+            "ParentObjectID": "object-0-4",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-4')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-4')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-4-1",
+            "ParentObjectID": "object-0-4-1",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-4-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-4-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-4-2",
+            "ParentObjectID": "object-0-4-2",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-4-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-4-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-4-3",
+            "ParentObjectID": "object-0-4-3",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-4-3')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-4-3')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-5",
+            "ParentObjectID": "object-0-5",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-5-1",
+            "ParentObjectID": "object-0-5-1",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-5-2",
+            "ParentObjectID": "object-0-5-2",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-5-3",
+            "ParentObjectID": "object-0-5-3",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5-3')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5-3')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-5-4",
+            "ParentObjectID": "object-0-5-4",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5-4')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-5-4')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-6",
+            "ParentObjectID": "object-0-6",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-6')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-6')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-6-1",
+            "ParentObjectID": "object-0-6-1",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-6-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-6-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "shiftedWorkingDays-0-6-2",
+            "ParentObjectID": "object-0-6-2",
+            "CalendarName": "workingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-6-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('shiftedWorkingDays-0-6-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0",
+            "ParentObjectID": "object-0",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-1",
+            "ParentObjectID": "object-0-1",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-1-1",
+            "ParentObjectID": "object-0-1-1",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-1-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-1-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-1-2",
+            "ParentObjectID": "object-0-1-2",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-1-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-1-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-2",
+            "ParentObjectID": "object-0-2",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-2-1",
+            "ParentObjectID": "object-0-2-1",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-2-2",
+            "ParentObjectID": "object-0-2-2",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-2-3",
+            "ParentObjectID": "object-0-2-3",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-3')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-3')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-2-4",
+            "ParentObjectID": "object-0-2-4",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-4')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-4')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-2-5",
+            "ParentObjectID": "object-0-2-5",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-5')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-5')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-2-6",
+            "ParentObjectID": "object-0-2-6",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-6')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-2-6')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-3",
+            "ParentObjectID": "object-0-3",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-3')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-3')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-3-1",
+            "ParentObjectID": "object-0-3-1",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-3-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-3-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-3-2",
+            "ParentObjectID": "object-0-3-2",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-3-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-3-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-4",
+            "ParentObjectID": "object-0-4",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-4')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-4')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-4-1",
+            "ParentObjectID": "object-0-4-1",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-4-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-4-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-4-2",
+            "ParentObjectID": "object-0-4-2",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-4-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-4-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-4-3",
+            "ParentObjectID": "object-0-4-3",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-4-3')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-4-3')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-5",
+            "ParentObjectID": "object-0-5",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-5-1",
+            "ParentObjectID": "object-0-5-1",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-5-2",
+            "ParentObjectID": "object-0-5-2",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5-2')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-5-3",
+            "ParentObjectID": "object-0-5-3",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5-3')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5-3')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-5-4",
+            "ParentObjectID": "object-0-5-4",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5-4')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-5-4')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-6",
+            "ParentObjectID": "object-0-6",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-6')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-6')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-6-1",
+            "ParentObjectID": "object-0-6-1",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-6-1')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-6-1')"
+            }
+        },
+        {
+            "WorkingTimeID": "WorkingTime-0-6-2",
+            "ParentObjectID": "object-0-6-2",
+            "CalendarName": "shiftedWorkingDays",
+            "__metadata": {
+                "id": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-6-2')",
+                "type": "GANTT_CHART_ODATA_SRV.WorkingTimeDetail",
+                "uri": "sap.gantt.GanttChart2OData/WorkingTimes('WorkingTime-0-6-2')"
+            }
+        }
+    ]
+}

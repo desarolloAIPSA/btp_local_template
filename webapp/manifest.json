@@ -1,0 +1,25 @@
+{
+    "_version": "1.48.0",
+    "sap.app": {
+        "id": "sap.gantt.sample.GanttChart2MultiCalendar",
+        "type": "application",
+        "i18n": "i18n/i18n.properties",
+        "applicationVersion": {
+            "version": "0.0.1"
+        },
+        "dataSources": {
+            "calendars": {
+              "uri": "localService/mockdata/Calendars.json",
+              "type": "JSON"
+            }
+          }
+    },
+  "sap.ui5": {
+    "models": {
+      "my_global_json_model":{
+        "type": "sap.ui.model.json.JSONModel",
+        "dataSource": "calendars"
+      }
+    }
+  }
+}
